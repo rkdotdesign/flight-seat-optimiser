@@ -20,9 +20,7 @@ This project is a React + Vite app that fetches data from a Supabase database.
 	npm run dev
 	```
 
-## Supabase
-- Project ID: `xpbifospalhdfhstapzs`
-- API Key: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhwYmlmb3NwYWxoZGZoc3RhcHpzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTMwOTk1ODUsImV4cCI6MjA2ODY3NTU4NX0.k7CYWOP5faOyWxWtaKQ0i_Brua5z113l6GQeC1j-8vw`
+
 
 ## Features
 - Fetches and displays data from Supabase.
